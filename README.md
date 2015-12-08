@@ -1,2 +1,3 @@
 # mpi-digital
-Home of MPI digital 
+Digital Service Standard
+This is a work-in-progress guide to the Discovery process.
